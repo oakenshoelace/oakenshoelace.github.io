@@ -1,9 +1,6 @@
 title: Ryan Perlatti #
 logo : <img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/5b9fd2c8-e22a-4b9d-b450-321e545551b5" />
 description: > Art & game dev Columbia College Chicago 
-  <br><br>
-  <a href="https://www.himedanshiliving.tumblr.co/">Reach me on Tumblr</a> 
-
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
