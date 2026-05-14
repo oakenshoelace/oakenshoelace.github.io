@@ -9,12 +9,11 @@ Compilation of coding projects and documentation compiled from my time taking pr
 The goal with this project was to build a simple console app text adventure game, so I chose to do a location/quest-based game. You start as an adventurer in a strange land named Avonu, and from there you can explore. 
 
 # Fishing Game
-<img width="954" height="578" alt="image" src="https://github.com/user-attachments/assets/ff6dabc5-a3df-4e27-80b6-44528d411c64" />
-A simple pet adoption console app. Has 4 different fish types.
+
 
 # Adopt-A-Fish
-<img width="954" height="578" alt="image" src="https://github.com/user-attachments/assets/ff6dabc5-a3df-4e27-80b6-44528d411c64" />
-<img width="958" height="556" alt="image" src="https://github.com/user-attachments/assets/be4a93f6-f628-4476-b572-881ed3bf1ff4" />
+<img alt="image" src="https://github.com/user-attachments/assets/ff6dabc5-a3df-4e27-80b6-44528d411c64" />
+<img alt="image" src="https://github.com/user-attachments/assets/be4a93f6-f628-4476-b572-881ed3bf1ff4" />
 A simple pet adoption console app. Has 4 different fish types.
 
 # Weather API
