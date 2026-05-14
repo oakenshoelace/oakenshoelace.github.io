@@ -1,5 +1,4 @@
-### Programming Portfolio
-Compilation of coding projects and documentation compiled from my time taking programming courses at Columbia College Chicago.
+## Programming Portfolio
 
 # Adventure Game
 <img alt="image" src="https://github.com/user-attachments/assets/20362d73-f65d-473a-9227-a4925904279b" />
@@ -23,7 +22,7 @@ A simple pet adoption console app. Has 4 different fish types.
 # Weather API
 <img src="https://github.com/user-attachments/assets/c6a17fb2-97af-498c-92bb-71a4cd61afb9" />
 
-Console app that pulls weather data from https://openweathermap.org/ <a href="https://openweathermap.org/">OpenWeather</a> using an API key. Currently working on implementing ascii art for different weather patterns.
+Console app that pulls weather data from <a href="https://openweathermap.org/">OpenWeather</a> using an API key. Currently working on implementing ascii art for different weather patterns.
 
 
 # Previous Code Work
