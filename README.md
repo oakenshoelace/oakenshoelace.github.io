@@ -17,6 +17,10 @@ The goal with this project was to build a simple console app text adventure game
 A simple pet adoption console app. Has 4 different fish types.
 
 # Weather API
+<img src="https://github.com/user-attachments/assets/c6a17fb2-97af-498c-92bb-71a4cd61afb9" />
+Console app that pulls weather data from https://openweathermap.org/ <a href="[[https://sites.google.com/view/ryanperlatti/home](https://adelinarose.itch.io/last-night-in-jubilee?__cf_chl_tk=Ic6Q_PEVl11QAAjuT62VNYVSkY8pQ2aIVboI_.XYmD0-1778769084-1.0.1.1-.gSTDK5BXywHJEbu6gKfHQNwEi9PnaE2F0CHypGlUFk](https://openweathermap.org/)">OpenWeather</a>. Currently working on implementing ascii art for different weather patterns.
+
+
 
 # Previous Code Work
 <img alt="image" src="https://github.com/user-attachments/assets/1d708d90-e22a-4dda-a7fd-665ee3f90e4d" />
